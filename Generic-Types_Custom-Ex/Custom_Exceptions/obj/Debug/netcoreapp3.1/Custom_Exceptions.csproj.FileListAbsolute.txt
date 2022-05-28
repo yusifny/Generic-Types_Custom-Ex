@@ -1,0 +1,26 @@
+/Users/ilkinibrahimov/Desktop/Visual Studio/Custom_Exceptions/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.deps.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Custom_Exceptions/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.runtimeconfig.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Custom_Exceptions/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.runtimeconfig.dev.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Custom_Exceptions/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/Custom_Exceptions/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.csproj.AssemblyReference.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilkinibrahimov/Desktop/Visual Studio/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.AssemblyInfoInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.AssemblyInfo.cs
+/Users/ilkinibrahimov/Desktop/Visual Studio/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.csproj.CoreCompileInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/Custom_Exceptions/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.genruntimeconfig.cache
+/Users/yusifnazarbayov/Desktop/Custom_Exceptions-main/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.deps.json
+/Users/yusifnazarbayov/Desktop/Custom_Exceptions-main/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.runtimeconfig.json
+/Users/yusifnazarbayov/Desktop/Custom_Exceptions-main/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Desktop/Custom_Exceptions-main/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.dll
+/Users/yusifnazarbayov/Desktop/Custom_Exceptions-main/Custom_Exceptions/bin/Debug/netcoreapp3.1/Custom_Exceptions.pdb
+/Users/yusifnazarbayov/Desktop/Custom_Exceptions-main/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/Desktop/Custom_Exceptions-main/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/Desktop/Custom_Exceptions-main/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Desktop/Custom_Exceptions-main/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.AssemblyInfo.cs
+/Users/yusifnazarbayov/Desktop/Custom_Exceptions-main/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Desktop/Custom_Exceptions-main/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.dll
+/Users/yusifnazarbayov/Desktop/Custom_Exceptions-main/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.pdb
+/Users/yusifnazarbayov/Desktop/Custom_Exceptions-main/Custom_Exceptions/obj/Debug/netcoreapp3.1/Custom_Exceptions.genruntimeconfig.cache
